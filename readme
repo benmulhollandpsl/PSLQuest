@@ -1,0 +1,17 @@
+PSL version 1.00
+based off sketches and early pixel art from 2017-2020. 
+using React-Game-Kit
+
+The character leaves their bedroom, goes into a coffee shop, and can go to a third area out the door.
+The character can interact with objects in their bedroom, interact with people in the coffee shop
+the character enters adventure mode when they leave and go onto the 3rd room (outside)
+characters in the coffee shop will move around freely, and have collision and roles they play outside of the coffee shop
+antagonists outside of the home are plastic bag characters
+
+25 rooms initially designed, and 2 massive epics are developed.  I'll spend much of the summer breaking those down into shorter stories
+
+
+
+
+
+all rights reserved regarding images, and sounds
